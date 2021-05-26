@@ -1,0 +1,32 @@
+body{
+     background-color: #e1e5ea;
+
+  }
+hr{
+
+    border-color: grey;
+    border-width: 5px;
+    border-style: none;
+    border-top-style: dotted;
+    width: 6%;
+
+}
+
+h3{
+  color: darkblue;
+  font-family: cursive;
+}
+h3:hover
+{
+  color: #a5a2fc;
+}
+.Subjects{
+  width: 161px;
+
+}
+
+.name{
+  color: dodgerblue;
+  display: inline-block;
+  margin-bottom: 0;
+}
